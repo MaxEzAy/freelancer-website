@@ -2,7 +2,7 @@
     --blanco: #ffffff;
     --oscuro: #212121;
     --primario: #FFC107;
-    --secundario: #0097A7
+    --secundario: #0097A7;
     --gris: #757575;
 }
 
@@ -22,4 +22,17 @@ body {
 
 .titulo span {
     font-size: 2rem;
+}
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+
+.nav-bg {
+    background-color: var(--secundario);
+}
+
+.navegacion-principal {
+
 }
